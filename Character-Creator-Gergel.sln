@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Character-Creator-Gergel", "Character-Creator-Gergel\Character-Creator-Gergel.csproj", "{5E424545-F31A-4CFF-A6B8-BAC26E9C8F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E424545-F31A-4CFF-A6B8-BAC26E9C8F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E424545-F31A-4CFF-A6B8-BAC26E9C8F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E424545-F31A-4CFF-A6B8-BAC26E9C8F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E424545-F31A-4CFF-A6B8-BAC26E9C8F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0352560C-FBF6-493B-B48F-4777D81A3590}
+	EndGlobalSection
+EndGlobal
