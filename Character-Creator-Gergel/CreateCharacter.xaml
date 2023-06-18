@@ -14,7 +14,7 @@
         </Border>
         <Image x:Name="CharacterImg" Stretch="Fill" HorizontalAlignment="Left" Height="292" Margin="174,41,0,0" VerticalAlignment="Top" Width="436"/>
         <TextBox x:Name="PlayerName" HorizontalAlignment="Center" Height="50" Margin="0,351,0,0" VerticalAlignment="Top" Width="418"/>
-        <Button Content="Save" Click="SaveCharacter" HorizontalAlignment="Left" Height="71" Margin="17,341,0,0" VerticalAlignment="Top" Width="133" Background="#FF561212" Foreground="White" FontSize="20"/>
+        <Button Content="Save" Click="SaveCharacter" HorizontalAlignment="Left" Height="71" Margin="17,341,0,0" VerticalAlignment="Top" Width="133" Background="Yellow" Foreground="White" FontSize="20"/>
         <Label Content="Class" HorizontalAlignment="Left" Margin="701,76,0,0" VerticalAlignment="Top"/>
 
     </Grid>
